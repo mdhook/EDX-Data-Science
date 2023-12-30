@@ -1,3 +1,3 @@
 # EDX-Data-Science
 
-Python workbook for working with company stock and revenue data
+Python files for final project in EDX data science course
